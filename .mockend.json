@@ -3,6 +3,6 @@
     "name": { "string": {} },
      "type": { "string": {} },
      "priority": { "string": {} },
-     "lastdate": { "date": {} },
-   }
+     "lastdate": { "date": {} }
+  }
 }
