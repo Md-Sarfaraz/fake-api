@@ -1,5 +1,5 @@
 {
-  "ticket":{
+  "Ticket":{
     "name": { "string": {} },
      "type": { "string": {} },
      "priority": { "string": {} },
